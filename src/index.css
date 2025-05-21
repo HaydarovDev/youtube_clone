@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "LeagueGothic";
+    src: url(./assets/font/LeagueGothic-Regular.ttf);
+}
+
+.youTubeFont {
+    font-family: "LeagueGothic";
+}
